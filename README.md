@@ -19,3 +19,16 @@ $ python2 BruteTarget.py
 ```
 # wordlist tools
 https://github.com/AuthenticXploit/Wordlist
+
+
+## Donations
+
+## OVO | DANA | GOPAY
+
+```
+085600006369 
+```
+## Atas Nama 
+```
+Reynaldy Zanuar Ramadhan
+```
