@@ -1,6 +1,6 @@
 # Brute-FB-Target
 Hacking facebook account is targeted by bruteforce method
-<img src="https://github.com/AuthenticXploit/BruteFB-Target/blob/main/Screenshot_2020-12-10-20-17-08-picsay.png">
+<img src="https://github.com/RSecxxx/BruteFB-Target/blob/main/Screenshot_2021-05-20-16-16-48-09.png">
 # Installations Termux
 ```
 $ pkg install python2
