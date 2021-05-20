@@ -43,7 +43,7 @@ banner = """\033[36;1m
      \x1b[1;97m Author   \033[31;1m:  \033[32mAuthenticXploit
      \x1b[1;97m Type     \033[31;1m:  \033[32mBruteForce
      \x1b[1;97m Version  \033[31;1m:  \033[32m0.2
-     \x1b[1;97m Thanks   \033[31;1m:  \033[32mN16HT-W4RR10R
+     \x1b[1;97m Thanks   \033[31;1m:  \033[32m®SecxXx.iĐ
      \x1b[1;97m
 """
 
